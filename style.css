@@ -157,14 +157,6 @@ details p {
   color: var(--muted);
 }
 
-/* Placeholders still to be filled in before publishing. */
-mark {
-  background: #ffe9a8;
-  color: var(--ink);
-  border-radius: 4px;
-  padding: 0 4px;
-}
-
 footer {
   margin-top: 40px;
   color: var(--muted);
